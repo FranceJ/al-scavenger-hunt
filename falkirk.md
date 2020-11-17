@@ -5,7 +5,7 @@ If you’ve followed the direction that the queen and cannon were pointing you t
 
 ![map clue](/assets/Map.png)
 
-Once you find this answer, please head to www.alertlabs.com/{insert-your-answer} to find your next clue!
+Once you find this answer, please head to http://asgardgreen.com/al-scavenger-hunt/{insert-your-answer} to find your next clue!
 
 ### Remote Team
 How's that Sudoku coming?
