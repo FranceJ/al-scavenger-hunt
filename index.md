@@ -1,9 +1,24 @@
-## Welcome to GitHub Pages
+# Alert Labs 2020 Scavenger Hunt
 
-You can use the [editor on GitHub](https://github.com/FranceJ/al-scavenger-hunt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Information
+Thanks to everyone who’s signed up for the Alert Labs 2020 Scavenger Hunt! We’re really excited to have you participating, and we’d like to commend you for your bravery in taking part in an outdoor December adventure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Clue 1
+Welcome to the Alert Labs 2020 Scavenger Hunt! We hope that you and your team are ready to stretch your minds (and legs!) as you make your way around Kitchener solving clues relating to the city’s geography, history, and, well... just about everything else! 
 
+### Ground Team
+Ground team, you will need to head to the location seen in the image below, where you will find the answer to the following clue,
+> “For this individual, this region is a metaphor for "new rhythms and ..."
+
+Once you find that answer, please head to www.alertlabs.com/{insert-your-answer} to find your next clue! 
+
+![clue 1](/assets/clue1.png)
+
+### Remote Team
+While the ground team is getting their exercise in for the day, you need to decipher the following two audio files which contain details about the locations of the following clues. 
+
+[audio file 1](/assets/object1.wav)
+[audio file 2](/assets/object2.wav)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
