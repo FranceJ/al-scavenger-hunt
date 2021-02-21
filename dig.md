@@ -4,7 +4,7 @@
 
 Hopefully you’ve got that sudoku solved by now! The next clue can be found at the intersection of the latitude provided by your sudoku solution and the following longitude: 80° 29' 21.6 W. 
 
-Once you’re there, please provide the initials of the two prime ministers who have dined at this establishment. Once you find this answer, please head to www.alertlabs.com/{insert-your-answer} to find your next clue!
+Once you’re there, please provide the initials of the two prime ministers who have dined at this establishment. Once you find this answer, please head to http://asgardgreen.com/al-scavenger-hunt/{insert-your-answer} to find your final clue!
 
 ### Remote Team
 
